@@ -1,2 +1,2 @@
-# baskan
-Baskan.css
+# My css library for daily use
+
